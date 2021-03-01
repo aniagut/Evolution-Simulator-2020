@@ -1,0 +1,13 @@
+{
+    
+  "width":40,
+  "height":30,
+  "startEnergy":50,
+  "moveEnergy":1,
+  "plantEnergy":20,
+  "copulationEnergy":25,
+  "jungleRatio":0.1,
+  "delay":25,
+  "startAnimalsNum":10,
+  "startPlantsNum": 80
+}
